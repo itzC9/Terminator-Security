@@ -55,6 +55,11 @@
 }
 
 ```
+```
+1) git clone https://github.com/itzC9/Terminator-Security
+2) cd Terminator-Security
+3) python Terminator-Security
+```
 <p> <b> Information about each line of the "config.json" file: </b> </p>
 <ul>
 <li><p><code>token</code> - This line specifies the token of your bot. You can get your bot token on the official Discord Developers website.</p></li>
