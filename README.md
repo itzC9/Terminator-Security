@@ -58,7 +58,7 @@
 ```
 1) git clone https://github.com/itzC9/Terminator-Security
 2) cd Terminator-Security
-3) python Terminator-Security
+3) python main.py
 ```
 <p> <b> Information about each line of the "config.json" file: </b> </p>
 <ul>
