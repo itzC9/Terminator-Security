@@ -1,0 +1,18 @@
+{
+	"token": "MTI1NzcxMDkyNTY2Mjc4NTU5Ng.G04yis.9nbn9Gn3crwgp95qhiV4X7GZP_EOxBEQvLd9Sg", 
+	"prefix": "!",
+	"command_cooldown_time": 30, 
+
+	"loghook": "https://discord.com/api/webhooks/1372963236252749955/xMRNRfBxR9hyhGZNMoKE0VBwhpFUafKVl3eBL21YDef0OsImQDEeZBV9obU79XlseSfM", 
+	"logs_output_type": "console/webhook", 
+
+	"nuke_channels_name": "TRINX-TRIBE-2025", 
+	"nuke_voice_name": "TRINITY-TRIBE", 
+	"nuke_categories_name": "NUKE BY TRINX", 
+	"nuke_server_name": ">>TRINX SYNDICATE<<", 
+	"nuke_roles_name": "WE ARE BACK", 
+	"nuke_webhook_name": "TRINITY SYNDICATE", 
+
+	"nuke_avatar_file": "avatar.jpg", 
+	"spam_text_file": "spam_text.txt"
+}
